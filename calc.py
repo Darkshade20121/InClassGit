@@ -6,5 +6,7 @@ def calc(a, b):
 
     my_list = [sum, difference, multiplication, division]
 
+   
+
 
 calc(3,4)
