@@ -4,5 +4,7 @@ def calc(a, b):
     multiplication = a * b
     division = a / b
 
+    my_list = [sum, difference, multiplication, division]
+
 
 calc(3,4)
