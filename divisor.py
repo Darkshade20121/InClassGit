@@ -13,4 +13,4 @@ def divisor(number):
                 print(i)
    
 
-divisor(36)   
+divisor(0)   
